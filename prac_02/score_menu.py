@@ -1,4 +1,4 @@
-"""score menu"""
+"""SCORE menu"""
 
 
 def main():
