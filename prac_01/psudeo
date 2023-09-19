@@ -1,0 +1,4 @@
+get n_gifts, n_students
+n_gifts_per_student = n_students // n_gifts
+n_gifts_leftover = n_students % n_gifts
+display n_gifts_per_student, n_gifts_leftover
