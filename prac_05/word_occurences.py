@@ -1,12 +1,13 @@
 """
 Word Occurrences
-Estimate: 30 minutes 
+Estimate: 30 minutes
 Actual:   25 minutes
 """
 string = input("Text: ")
 words = string.split(" ")
 string_dictionary = {}
 longest_word_length = 0
+words.sort()
 for item in words:
     item.lower()
     if item in string_dictionary:
