@@ -1,3 +1,8 @@
+"""
+Emails
+Estimate: 30 minutes
+Actual:   20 minutes
+"""
 email = input("Email: ")
 print(email)
 name_and_email = {}
