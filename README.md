@@ -1,3 +1,11 @@
-# CP1404 Practicals
+# Jason Keatley CP1404 Practicals
 
-Practical work for IT@JCU CP1404
+## Information
+
+This repo contains all practicals for this trimester completed by Jason Keatley
+
+## Lessons Learnt
+
+- DRY
+- Readable code (naming conventions)
+- formatting
