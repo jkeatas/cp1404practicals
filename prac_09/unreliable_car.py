@@ -1,8 +1,9 @@
 from prac_09.car import Car
 from random import randint
 
-class UnreliableCar(Car):
 
+class UnreliableCar(Car):
+    """Specialised version of a Car that includes reliability"""
     def __init__(self, name, fuel, reliability):
         """Initialise a unreliable car instance, based on parent class Car."""
         super().__init__(name, fuel)
